@@ -1,12 +1,12 @@
-## Welcome to My Portfolio
+# Welcome to My Portfolio
 
-# I am Abdelfatah Hezema, Computer Science graduate and software engineer.
+## I am Abdelfatah Hezema, Computer Science graduate and software engineer.
 
-I have a passion for CS and a huge curiousity to know how things really work, and it drives me to keep learning, exploring and digging deeper down to learn more.
+I have a passion for CS and a huge curiousity to know how things really work, and it drives me to keep learning, exploring and digging deeper to learn more.
 
 My experience is mostly in Javascript frameworks (React.js/ Vue.js and Node.js) and Frontend developement. 
 
-### Markdown
+## Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
