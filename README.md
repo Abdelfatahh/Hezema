@@ -1,9 +1,12 @@
 ## Welcome to My Portfolio
 
-#I am Abdelfatah Hezema
-Computer science graduate and software engineer.
+# I am Abdelfatah Hezema, Computer Science graduate and software engineer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My experience is mostly in Javascript frameworks (React.js/React Native and Node.js) and Ruby on Rails.
+
+I have a passion for CS and a huge curiousity to know how things really work, and it drives me to keep learning, exploring and digging deeper down to learn more.
+
+My experience is mostly in Javascript frameworks (React.js/ Vue.js and Node.js) and Frontend developement. 
 
 ### Markdown
 
