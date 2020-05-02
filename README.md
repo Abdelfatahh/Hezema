@@ -2,8 +2,6 @@
 
 # I am Abdelfatah Hezema, Computer Science graduate and software engineer.
 
-My experience is mostly in Javascript frameworks (React.js/React Native and Node.js) and Ruby on Rails.
-
 I have a passion for CS and a huge curiousity to know how things really work, and it drives me to keep learning, exploring and digging deeper down to learn more.
 
 My experience is mostly in Javascript frameworks (React.js/ Vue.js and Node.js) and Frontend developement. 
