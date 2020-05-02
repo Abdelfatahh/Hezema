@@ -8,7 +8,11 @@ My experience is mostly in Javascript frameworks (React.js/ Vue.js and Node.js) 
 
 ## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following projects are my graduation project and side projects that I did during my learning journey.
+
+### Collectomatic
+
+Collectomatic is my **Graduation Project**. 
 
 ```markdown
 Syntax highlighted code block
