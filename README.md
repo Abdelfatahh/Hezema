@@ -10,9 +10,16 @@ My experience is mostly in Javascript frameworks (React.js/ Vue.js and Node.js) 
 
 The following projects are my graduation project and side projects that I did during my learning journey.
 
+### FileCabinet
+
+FileCabinet: It is a web application that you can create documents on it or add your own documents on it. You can also edit them and delete them. I developed it using (Ruby on Rails) and I used 3 additional gems and they are (haml, devise and simple_form).
+
+### Bookify
+Bookify: It is a book recommendation system which me and a friend of mine implemented it on the intern at Bibliotheca Alexandria. I was responsible to implement the front-end part. To develop it I used HTML, CSS, JS and Bootstrap.
+
 ### Collectomatic
 
-Collectomatic is my **Graduation Project**. 
+Collectomatic (Graduation Project): Collectomatic is a web-mobile application. The idea of the project is mainly based on keeping the city clean. The users of the mobile app can submit a claim when they see an overflow of garbage in the streets, then the monitoring app will send the nearest car to the location where the claim come from. I am responsible for the monitoring app and building it using React.js 
 
 ```markdown
 Syntax highlighted code block
